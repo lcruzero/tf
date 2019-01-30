@@ -1,2 +1,2 @@
-# tf
-explore terraform
+# terraform
+explore terraform > AWS deployment
